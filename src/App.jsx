@@ -1,0 +1,33 @@
+import React from 'react';
+import LinkButton from './components/LinkButton';
+import ProfileImage from './components/ProfileImage';
+import Images from './assets/apple.png';
+import AppleIcon from './assets/apple2.png';
+import './App.css'
+
+const App = () => {
+  return (
+    <div className="App">
+      <main>
+        <h1>
+          Apple Stream Tv
+          <img src={AppleIcon} alt="Apple Icon" className="icon" />
+        </h1>
+        <ProfileImage src={Images} alt="Profile" />
+        <h1>Free live stream</h1>
+        <LinkButton url="https://www.profitablecpmrate.com/p9tj1pvu?key=674603a5629e12ef67f2e8e8f9579aff" />
+        <LinkButton url="https://www.profitablecpmrate.com/s99hsyay2?key=e0ebf2ace4d775d12331a4c1440a2acb" text="Live TV" />
+        <LinkButton url="https://www.profitablecpmrate.com/bmfikw080n?key=0c1a475b6b55492f334ba63ce955ffac" text="Apple music" />
+        {/* Menambahkan DirectLink yang disembunyikan */}
+        <iframe
+          src="https://www.profitablecpmrate.com/yxcyzke636?key=b74984025e127997fa0a076f38e1c292"
+          style={{ display: 'none' }}
+          title="profitablecpmrate-directlink"
+        ></iframe>
+        <h2>Apple Stream © 2024 Design By Idin Iskandar </h2>
+      </main>
+    </div>
+  );
+};
+
+export default App;
