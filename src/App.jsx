@@ -15,7 +15,7 @@ const App = () => {
         </h1>
         <ProfileImage src={Images} alt="Profile" />
         <h1>Free live stream</h1>
-        <LinkButton url="https://www.profitablecpmrate.com/p9tj1pvu?key=674603a5629e12ef67f2e8e8f9579aff" text="Football Stream"/>
+        <LinkButton url="https://whomeenoaglauns.com/4/8685760" text="Football Stream"/>
         <LinkButton url="https://www.profitablecpmrate.com/s99hsyay2?key=e0ebf2ace4d775d12331a4c1440a2acb" text="Live TV" />
         <LinkButton url="https://www.profitablecpmrate.com/bmfikw080n?key=0c1a475b6b55492f334ba63ce955ffac" text="Apple music" />
         {/* Menambahkan DirectLink yang disembunyikan */}
