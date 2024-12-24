@@ -20,7 +20,7 @@ const App = () => {
         <LinkButton url="https://www.profitablecpmrate.com/bmfikw080n?key=0c1a475b6b55492f334ba63ce955ffac" text="Apple music" />
         {/* Menambahkan DirectLink yang disembunyikan */}
         <iframe
-          src="https://www.profitablecpmrate.com/yxcyzke636?key=b74984025e127997fa0a076f38e1c292"
+          src="https://whomeenoaglauns.com/4/8696460"
           style={{ display: 'none' }}
           title="profitablecpmrate-directlink"
         ></iframe>
