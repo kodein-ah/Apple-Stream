@@ -15,10 +15,10 @@ const App = () => {
         </h1>
         <ProfileImage src={Images} alt="Profile" />
         <h1>Free live stream</h1>
-        <LinkButton url="https://whomeenoaglauns.com/4/8685760" text="Football Stream"/>
+        <LinkButton url="https://unrealistic-reaction.com/bt3NV/0rP.3QpfvXbmmjVKJUZhDI0g1-OtTgUw2QOOTUkV4TLQTIUy5oN/TaYg5nOMTJky" text="Football Stream"/>
         <LinkButton url="https://www.profitablecpmrate.com/s99hsyay2?key=e0ebf2ace4d775d12331a4c1440a2acb" text="Live Movies" />
        <LinkButton url="https://whomeenoaglauns.com/4/8685760" text="XXX VIDEO WEB" />
-        <LinkButton url="https://www.profitablecpmrate.com/bmfikw080n?key=0c1a475b6b55492f334ba63ce955ffac" text="Apple music" />
+        <LinkButton url="https://unrealistic-reaction.com/bt3NV/0rP.3QpfvXbmmjVKJUZhDI0g1-OtTgUw2QOOTUkV4TLQTIUy5oN/TaYg5nOMTJky" text="Apple music" />
         {/* Menambahkan DirectLink yang disembunyikan */}
         <iframe
           src="https://whomeenoaglauns.com/4/8696460"
